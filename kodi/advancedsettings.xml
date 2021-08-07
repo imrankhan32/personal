@@ -1,0 +1,6 @@
+<advancedsettings>
+ <cache>
+   <memorysize>40971520</memorysize>
+   <readfactor>1000</readfactor>
+ </cache>
+</advancedsettings>
